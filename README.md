@@ -1,2 +1,2 @@
 # Nature_EarEEG
-Code share for Nature (sister) submission
+Code share for Nature Sensors submission
